@@ -1,0 +1,1 @@
+<p>El usuario <strong>{{ $nombre }}</strong> ha realizado una compra de forma satisfactoria.</p>
